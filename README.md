@@ -1,10 +1,7 @@
  
 
 
-> Open this page at [https://zyroxcodes.github.io/plane-with-gun/](https://zyroxcodes.github.io/plane-with-gun/)
-
-## Use as Extension
-
+>
 This repository can be added as an **extension** in MakeCode.
 
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
